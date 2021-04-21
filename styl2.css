@@ -9,6 +9,12 @@
 body{
     background: #ededed;
 }
+.nom{
+
+  background-color: green;
+  width: 1300px;
+
+}
 p{
     font-size: 1em;
     line-height: 1.5em;
@@ -41,7 +47,7 @@ footer{
 footer p{
     width: 90%;
     margin: 0 auto;
-    color: #fff;
+    color: black;
     text-align: center;
 }
 footer a{
